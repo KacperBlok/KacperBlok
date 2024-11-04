@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/59/b7/68/59b768763f76224ed59d33cb45e7546a.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b7db7b66837391.5b23d2fe63e62.gif)
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A passionate Software/Blokchain developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"
