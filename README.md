@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kacperblok&label=Profile%20views&color=0e75b6&style=flat" alt="kacperblok" /> </p>
 
-- 🔭 I’m currently working on **Blokchain Chat Dapp**
+- 🔭 I’m currently working on **Blockchain Chat Dapp**
 
 - 🌱 I’m currently learning **React.js, Next,js**
 
