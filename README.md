@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b7db7b66837391.5b23d2fe63e62.gif)
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">A passionate Software/Blockchain developer</h3>
+<h3 align="center">A Master's Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kacperblok&label=Profile%20views&color=0e75b6&style=flat" alt="kacperblok" /> </p>
